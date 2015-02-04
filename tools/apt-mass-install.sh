@@ -1,0 +1,1 @@
+apt-get install -y $(grep -vE "^\s*#" $1  | tr "\n" " ")
