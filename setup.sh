@@ -10,4 +10,5 @@ $my_dir/submodules/fix_locale.sh
 $my_dir/submodules/elixir.sh
 $my_dir/submodules/tmux.sh
 $my_dir/submodules/phoenix.sh
+$my_dir/submodules/nginx.sh
 
